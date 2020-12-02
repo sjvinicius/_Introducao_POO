@@ -1,0 +1,13 @@
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introdução_POO\bin\Debug\netcoreapp3.1\_Introdução_POO.exe
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introdução_POO\bin\Debug\netcoreapp3.1\_Introdução_POO.deps.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introdução_POO\bin\Debug\netcoreapp3.1\_Introdução_POO.runtimeconfig.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introdução_POO\bin\Debug\netcoreapp3.1\_Introdução_POO.runtimeconfig.dev.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introdução_POO\bin\Debug\netcoreapp3.1\_Introdução_POO.dll
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introdução_POO\bin\Debug\netcoreapp3.1\_Introdução_POO.pdb
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introdução_POO\obj\Debug\netcoreapp3.1\_Introdução_POO.csprojAssemblyReference.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introdução_POO\obj\Debug\netcoreapp3.1\_Introdução_POO.AssemblyInfoInputs.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introdução_POO\obj\Debug\netcoreapp3.1\_Introdução_POO.AssemblyInfo.cs
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introdução_POO\obj\Debug\netcoreapp3.1\_Introdução_POO.csproj.CoreCompileInputs.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introdução_POO\obj\Debug\netcoreapp3.1\_Introdução_POO.dll
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introdução_POO\obj\Debug\netcoreapp3.1\_Introdução_POO.pdb
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introdução_POO\obj\Debug\netcoreapp3.1\_Introdução_POO.genruntimeconfig.cache
